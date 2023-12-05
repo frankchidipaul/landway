@@ -1,0 +1,297 @@
+body{
+height:100vh ;
+width:100% ;
+background-color:rgba(0, 0, 0, 0.17) ;
+
+
+}
+.boss{
+
+color: #fff;
+text-align: center;
+background-image:url(../landway/tv.jpeg) ;
+background-position: center;
+background-repeat: no-repeat;
+background-size:auto;
+height: 100vh;
+width:100% ;
+
+
+}
+
+.h1{
+    font-size:107px ;
+    color: #fff;
+    
+    
+
+
+
+}
+
+.h2{font-size:107px ;
+    color: #fff;
+    margin-bottom:-35px ;
+    
+
+
+}
+.btn{
+background-color:rgb(0, 104, 55) ;
+height:40px ;
+width:150px ;
+font-size: 11px;
+color: #fff;
+font-weight:50px ;
+border:none ;
+
+}
+.p{
+
+margin-bottom:-20px ;
+
+}
+.b{
+    margin-left:35% ;
+    border:4px solid rgb(0, 104, 55);
+    margin-top:55px ;
+     width:350px;
+     margin-top:-70px ;
+     margin-bottom:-100px ;
+     
+}
+.l{
+margin-bottom:-10px ;
+
+}
+.t{
+font-size:15px ;
+line-height:1.45 ;
+font-weight: 700;
+
+}
+.section2{
+border:1px solid red ;
+height:500px ;
+margin-left:5rem ;
+margin-right:5rem ;
+margin-top:2rem ;
+background-color:
+rgb(255, 255, 255) ;
+border:none ;
+
+
+
+}
+.Features{
+font-family:sans-serif ;
+font-size:30px ;
+text-align: center;
+
+
+
+}
+.im1{
+display: flex;
+justify-content: center;
+justify-content: space-evenly;
+
+}
+ul{
+display: flex;
+justify-content: center;
+justify-content:space-evenly;
+font-size:20px ;
+font-family:sans-serif ;
+font-weight: 700;
+
+}
+.im2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+
+}
+.section3{
+    border:1px solid red ;
+    height:800px ;
+    margin-left:5rem ;
+    margin-right:5rem ;
+    margin-top:2rem ;
+    background-image:url(../landway/c9930130f27040588d0e841a121241e3-0003.jpg) ;
+    background-position:center ;
+    background-repeat: no-repeat;
+    background-size: contain;
+ border:none ;
+
+}
+.section4{
+    border:1px solid red ;
+    background-color: #fff;
+    height:900px ;
+    margin-left:5rem ;
+    margin-right:5rem ;
+    margin-top:2rem ;
+    border:none ;
+
+}
+.img4{
+    
+    margin-right:5rem ;
+    margin-top:5rem ;
+     margin-bottom:5rem ;
+     width:90%;
+     height:750px ;
+     padding-left:5% ;
+     padding-right:5% ;
+     
+}  
+.section5{
+   background-color: #fff;
+    border:5px solid red ;
+    height: 580px;
+    margin-left:5rem ;
+    margin-right:5rem ;
+    margin-top:2rem ;
+     display: flex;
+    border:none ;
+    
+
+}
+.body1{
+ 
+  width:500px;
+  height:1000px ;
+  margin-right:5% ;
+  margin-top:5% ;
+  margin-left:5% ;
+
+}
+.img5{
+border-top-right-radius:20px ;
+border-top-left-radius:20px ;
+border-bottom-left-radius:20px ;
+border-bottom-right-radius:20px ;
+height:500px ;
+
+
+}
+.body2{
+border:1px solid red ;
+width:600px ;
+height:500px ;
+line-height:20px ;
+margin-top:5% ;
+margin-left:5% ;
+margin-right: 5%;
+border:none ;
+
+
+}
+.sp2{
+width:80% ;
+ text-align: center;
+background-color:#006837;
+height:10%;
+padding-top:5px ;
+font-size: 30px;
+line-height: 1.4;
+ letter-spacing: 0px;
+ color: #fff;
+ font-size: 1.5em;
+ font-weight: 100;
+ font-family:sans-serif ;
+ 
+ 
+}
+
+.end{
+    background-color: #fff;
+    border:5px solid red ;
+    height:600px;
+    margin-left:5rem ;
+    margin-right:5rem ;
+    margin-bottom:50% ;
+    display: block;
+    justify-content:space-evenly;
+    border:none ;
+}
+
+.sp3{
+width: 350px;
+height:250px ;
+margin-left:11px;
+
+
+}
+.fbody{
+
+    border:1px solid red ;
+    height:100vw ;
+    margin-left:5rem ;
+    margin-right:5rem ;
+    background-color:
+    rgb(255, 255, 255) ;
+    margin-top: -48%;
+   align-items: center;
+   display: flex;
+}
+
+.first{
+   
+    border:1px solid red ;
+    width:500px ;
+    height:800px ;
+    line-height:20px ;
+    margin-top:5% ;
+    margin-left:5% ;
+    margin-right: 2%;
+    line-height:25px ;
+     
+
+
+
+}
+ input{
+width:70% ;
+height: 30px;
+border-radius:10px ;
+border:3px solid ;
+color:
+rgb(51, 51, 51);
+ }
+
+ .second{
+
+    border:1px solid red ;
+    width:500px ;
+    height:800px ;
+    line-height:20px ;
+    margin-top:5% ;
+    margin-left:5% ;
+    margin-right: 2%;
+    line-height:25px ;
+
+
+ }
+ .time{
+     border-radius:10px ;
+    border:4px solid;
+    height: 35px;
+    width:60px ;
+    color:rgb(51, 51, 51); 
+
+ }
+
+ .btn6{ background-color: #006837;
+   width: 50px; 
+   height:20px ;
+
+
+
+
+ }
+
+
+ 

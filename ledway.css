@@ -1,0 +1,271 @@
+
+
+
+
+body{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:rgba(242,242,242,0.75) ;
+   width:100% ;
+   height:100vh;
+   padding: 0;
+   margin: 0;
+
+
+
+
+}
+
+
+.logo{
+    width:150px ;
+    height:50px ;
+  margin-top:20px ;
+  margin-left:20px ;
+
+}
+.boss{ background-image:url(../landway/bg-stripes\ \(1\).png) ;
+margin: 0 5em 0 5em;
+background-color: #fff;
+border: 1px solid transparent;
+height: 1600px;
+
+
+
+
+}
+
+.cover{
+    width:87.3%;
+    height:80px ;
+    border:1px solid transparent ;
+    gap:50px ;
+    display: flex;
+    box-shadow:0 1px 1px 1px;
+    border-top: 20px ;
+    position: fixed;
+    
+    background-color:rgb(255, 255, 255);
+
+
+
+}
+.a{
+margin-left:50px;
+}
+.s{
+margin-left:50px ;
+
+}
+
+
+.top,a{
+ text-decoration: none;
+ margin-left:50px ;
+ 
+ margin-top:20px ;
+ color: #000;
+ font-size: 12px;
+ font-weight: 600;
+display: flex;
+}
+.top:hover  .a{
+
+  color: #fa6400;
+}
+.top:hover  .o{
+
+  color: #fa6400;
+}
+.top:hover  .s{
+
+  color: #fa6400;
+}
+
+.btn1{
+  margin-left:150px ;
+  width:150px ;
+  height:35px ;
+  font-size:15px ;
+  line-height:16px ;
+  background-color:#fa6400; ;
+  color: #fff;
+ border-radius:5px ;
+ margin-top:20px ;
+ 
+
+}
+.h1{
+font-size:45px ;
+font-weight:700 ;
+
+}
+
+
+.t{
+margin-top:15%;
+text-align: center;
+
+}
+.insid{
+  background-color:rgba(242, 242, 242, 0.90) ;
+  
+
+ 
+border:1px solid red ;
+width:500px ;
+ height:1000px;
+margin-top:20% ;
+margin-left:50px ;
+border-top-right-radius:20px ;
+border-top-left-radius:20px ;
+margin-bottom:210px;
+border-bottom-left-radius:5px ;
+border-bottom-right-radius:5px ;
+border:none ;
+
+}
+
+.insid2{
+  border:1px solid red ;
+  width:500px ;
+  height:1000px;
+  margin-left:800px ;
+  border-top-right-radius:20px ;
+  border-top-left-radius:20px;
+  margin-bottom:200px ;
+  background-color:rgba(242, 242, 242, 0.90) ;
+   margin: auto;
+   margin-top:20% ;
+   border-bottom-left-radius:5px ;
+   border-bottom-right-radius: 5px;
+  border:none ;
+
+}
+.in{
+ display: flex;
+
+
+
+}
+.sid{
+  border:1px solid red ;
+  width:500px ;
+   height:400px;
+  margin-top:20% ;
+  margin-left:50px ;
+  border-top-right-radius:20px ;
+  border-top-left-radius:20px ;
+  margin-bottom:210px;
+  margin-top:20% ;
+  
+
+}
+.go{
+  width:500px ;
+  height:500px
+  
+}
+.go{
+  border-top-right-radius:20px ;
+  border-top-left-radius:20px ;
+}
+
+.ht{
+  margin-left:10px ;
+}
+.para{
+  margin-left: 10px;
+  background-color:rgb(234, 91, 12) ;
+  color: #fff;
+  width:300px ;
+  padding:10px ;
+  
+}
+  
+.spa{
+width:50px ;
+
+
+
+
+}
+
+.move{
+display: flex;
+justify-content: space-evenly;
+
+ 
+
+ }
+  
+  
+
+ul{
+display: flex;
+justify-content: space-evenly;
+list-style: none;
+margin-right:20px ;
+font-size:14px ;
+
+}
+.imag1{
+  border-radius:10px ;
+width:150px ;
+height:80px ;
+border:1px solid red ;
+background-image:url(../landway/image-000.jpg) ;
+background-position:center ;
+background-repeat: no-repeat;
+background-size:200px;
+border:none ;
+}
+.imag2{
+  background-image:url(../landway/image-001.jpg) ;
+border-radius:10px ;
+width:150px ;
+height:80px ;
+border:1px solid red ;
+background-position:center ;
+background-repeat: no-repeat;
+background-size:200px;
+border:none ;
+
+}
+.imag3{
+  background-image:url(../landway/img3-1.jpg) ;
+  border-radius:10px ;
+width:150px ;
+height:80px ;
+border:1px solid red ;
+background-position:center ;
+background-repeat: no-repeat;
+background-size:200px;
+border:none ;
+
+}
+.end{
+display: flex;
+justify-content: space-evenly;
+
+
+}
+.btn5{
+  
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top:70px ;
+
+
+
+
+}
+.btn6{
+  height:45px ;
+background-color:rgb(239, 95, 0) ;
+width:120px ;
+border-radius:20px ;
+font-size:16px ;
+width:120px  ;
+color: #fff;
+}
